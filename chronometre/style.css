@@ -1,3 +1,7 @@
+* {
+    outline: 0;
+}
+
 .chrono{
     margin: auto ;
     width: 300px;

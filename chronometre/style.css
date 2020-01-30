@@ -1,0 +1,32 @@
+.chrono{
+    margin: auto ;
+    width: 300px;
+    text-align: center;
+
+}
+
+.cadre{
+    margin: 0 auto 10px;
+    width: 300px;
+    border: 1px solid black;
+    text-align: center;
+    font-size: 24px;
+}
+
+button{
+    background: red;
+    color: white;
+    width: 95px;
+    border-radius: 11px;
+    line-height: 25px;
+    border: none
+}
+
+button:hover {
+    background: #2471ff;
+    cursor: pointer;
+}
+
+p {
+    display: inline-block;
+}
